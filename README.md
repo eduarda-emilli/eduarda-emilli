@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Pode me chamar de Duda! 👋
 
 <!--
 **eduarda-emilli/eduarda-emilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
