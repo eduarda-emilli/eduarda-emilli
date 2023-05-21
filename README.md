@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/eduarda-emilli">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eduarda-emilli&show_icons=true&theme=radical"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-emilli&layout=compact&langs_count=16&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduarda-emilli&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-emilli&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
