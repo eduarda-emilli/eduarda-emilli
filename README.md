@@ -1,8 +1,7 @@
 ### Olá! Pode me chamar de Duda! 👋
 
 - 🔭 Futura desenvolvedora front-end
-- 🌱 Estudando JavaScript e Angular 
-- 💬 <s>finja que aqui tem alguma frase daora</s>
+- 🌱 Estudando JavaScript e iniciando no React
 
 <div>
   <a href="https://github.com/eduarda-emilli">
