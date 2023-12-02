@@ -33,6 +33,7 @@
 <details style="width: 100%;">
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <a href="https://github.com/lauragift21/"><img alt="Gift's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eduarda-emilli&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" style="width: 100%;" /></a>
+  <a href="https://github.com/eduarda-emilli/"><img alt="Gift's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eduarda-emilli&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" style="margin-left: 12px;" /></a>
   <br/>
 </details>
+
