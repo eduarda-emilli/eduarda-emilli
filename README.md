@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Duda :woman_technologist:</h1>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Duda, Front-end Developer</h3>
 
 <div align="center">
   <a href="mailto:informaticaeduarda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
